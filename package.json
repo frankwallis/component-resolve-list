@@ -1,0 +1,33 @@
+{
+  "name": "component-resolve-list",
+  "version": "0.1.0",
+  "description": "file resolver for component",
+  "directories": {},
+  "main": "lib/index.js",
+  "dependencies": {
+    "component-flatten": "^1.0.0",
+    "component-resolver": "^1.1.8"
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+  },
+  "author": {
+    "name": "Frank Wallis"
+  },
+  "license": "MIT",
+  "keywords": [
+    "component", "resolve", "watch", "gulp"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/frankwallis/component-resolve-list.git"
+  },
+  "homepage": "https://github.com/frankwallis/component-resolve-list",
+  "maintainers": [
+    {
+      "name": "frankwallis",
+      "email": "fwallis@outlook.com"
+    }
+  ]
+}
