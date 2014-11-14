@@ -1,6 +1,6 @@
 {
   "name": "component-resolve-list",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "file resolver for component",
   "directories": {},
   "main": "lib/index.js",
