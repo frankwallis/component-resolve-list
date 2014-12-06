@@ -1,11 +1,11 @@
 {
   "name": "component-resolve-list",
-  "version": "0.4.0",
+  "version": "0.5.2",
   "description": "file resolver for component",
   "directories": {},
   "main": "lib/index.js",
   "dependencies": {
-    "component-resolve-fields": "^0.3.0"
+    "component-resolve-fields": "^0.5.0"
   },
   "devDependencies": {
   },
